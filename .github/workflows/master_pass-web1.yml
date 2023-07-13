@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'pass-web1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68FAB373F87046A5AEDD269CB283AE4F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C6A0DE7D9B15404398CCBCDAA6BE571A }}
           package: .
